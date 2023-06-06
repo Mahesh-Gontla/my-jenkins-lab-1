@@ -4,4 +4,6 @@ date
 
 cal
 
+echo "bye"
+
 
